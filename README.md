@@ -1,14 +1,2 @@
-<h1> 💠TEXTO💠</h1>
+<h1> 💠Entrega Atividade de Array💠</h1>
 
-<div>
-⚪Texto;
-  <br>
-⚪Texto;
-  <br>
-⚪Texto;
-  <br>
-⚪Texto;
-  <br>
-⚪Texto.
-
-</div>
