@@ -1,0 +1,29 @@
+:root {
+    --cor-laranja: #ea8676;
+    --cor-laranjaAvermelhado: #d24858;
+    --cor-bege: #fdeecd;
+    --cor-verde: #275223;
+    --cor-verdeClaro: #a9dfa5;
+}
+
+body {
+    height: 100dvh;
+    margin: 0;
+    background-color: var(--cor-bege);
+}
+
+* {
+    font-family: "cooper-black-std", serif;
+    text-shadow: 1px 2px var(--cor-sombraText);
+}
+
+h1 {
+    color: var(--cor-laranjaAvermelhado);
+    margin-top: 20px;
+    text-align: center;
+}
+
+.btn{
+ margin-left: 15vw;
+ border: 2px solid var(--cor-laranjaAvermelhado);
+}
